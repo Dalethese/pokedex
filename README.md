@@ -11,6 +11,9 @@
 
 <p align="center">🔗 https://youtu.be/uTNKsgJHboo</p>
 
+<h2 align="center">Link para ver o projeto rodando</h2>
+<p align="center">🔗 https://cute-mermaid-f38b81.netlify.app/</p>
+
 ---
 
 <h2 align="center">Como baixar este repositório</h2>
