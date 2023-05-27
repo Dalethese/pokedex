@@ -1,5 +1,5 @@
 <h1 align="center">
-  ATUALIZADO: Como desenvolver uma pokedex em JavaScript
+  Como desenvolver uma pokedex em JavaScript
 </h1>
 
 <h6 align="center">Como construir uma pokedex com JavaScript puro, sem frameworks.</h6>
